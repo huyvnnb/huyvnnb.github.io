@@ -46,7 +46,7 @@ int main(){
 
 ***
 | Tiêu đề 1 | Tiêu đề 2 | Tiêu đề 3|
-|---|---|---|
+|------|------|------|
 |Nội dung 1| Nội dung 2 |Nội dung 5|
 |Nội dung 3|Nội dung 4|Nội dung 6|
 
