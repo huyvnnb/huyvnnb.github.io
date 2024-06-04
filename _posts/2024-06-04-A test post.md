@@ -1,5 +1,5 @@
 ---
-title: title
+title: About me
 date: 2024-06-04
 ---
 # About me
@@ -46,9 +46,9 @@ int main(){
 
 ***
 | Tiêu đề 1 | Tiêu đề 2 | Tiêu đề 3|
-|:-----------|:-----------:|----------:|
+|---|---|---|
 |Nội dung 1| Nội dung 2 |Nội dung 5|
-|3|4 |6|
+|Nội dung 3|Nội dung 4|Nội dung 6|
 
 ```json
 {
