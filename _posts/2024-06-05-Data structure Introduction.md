@@ -1,8 +1,8 @@
 ---
-title: Giới thiệu về Cấu trúc dữ liệu
+title: "Giới thiệu về Cấu trúc dữ liệu"
 date: 2024-06-05 09:05:00
 categories: [DSA, Data Structure]
-tags: [data-structure]     # TAG names should always be lowercase
+tags: [data-structure, code]     # TAG names should always be lowercase
 ---
 
 ## Giới thiệu
