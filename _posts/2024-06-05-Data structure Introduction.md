@@ -1,8 +1,7 @@
 ---
 title: "Giới thiệu về Cấu trúc dữ liệu"
 date: 2024-06-05 09:05:00
-categories: [DSA, Data Structure]
-tags: [data-structure]     # TAG names should always be lowercase
+categories: [DSA, Data Structure]    # TAG names should always be lowercase
 ---
 
 ## Giới thiệu
@@ -17,7 +16,7 @@ Cấu trúc dữ liệu và Giải thuật **(DSA - Data Structure and Algorithm
 
 ## Các cấu trúc dữ liệu phổ biến
 
-![Data Structure](/_site/assets/img/img-ds/ds.jpg)
+<!-- ![Data Structure](/_site/assets/img/img-ds/ds.jpg) -->
 
 ### Array
 - Mảng là một cấu trúc dữ liệu tuyến tính **(linear data structure)**, lưu trữ một tập hợp các giá trị cùng kiểu dữ liệu, liên tiếp nhau trên bộ nhớ, điều này cho phép truy cập dữ liệu với thời gian hằng số **(constant-time)**.
@@ -57,4 +56,4 @@ Cấu trúc dữ liệu và Giải thuật **(DSA - Data Structure and Algorithm
 - Cấu trúc phi tuyến tính, đồ thị bao gồm hữu hạn các **Đỉnh (Vertices)** và **Cạnh (Edge)** liên kết với nhau
 - Ví dụ: Mạng xã hội, mạng máy tính, hay **Google Maps**.
 
-Mình đã liệt kê cho các bạn một số cấu trúc dữ liệu phổ biến. Ở [bài sau](), mình sẽ liệt kê các thuật toán liên quan đến các cấu trúc dữ liệu. Cảm ơn mọi người đã đọc bài viết của mình.
+Mình đã liệt kê cho các bạn một số cấu trúc dữ liệu phổ biến. Ở [bài sau](https://huyvnnb.github.io), mình sẽ liệt kê các thuật toán liên quan đến các cấu trúc dữ liệu. Cảm ơn mọi người đã đọc bài viết của mình.
