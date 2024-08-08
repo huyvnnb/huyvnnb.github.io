@@ -8,7 +8,7 @@ description: "Chúng ta sẽ tìm hiểu về các thiết bị mạng như rout
 
 ## Thiết bị mạng là gì ?
 
-Thiết bị mạng, hay còn gọi là network devices, theo cách hiểu đơn giản nhất thì đó là những thiết bị vật lý được kết nối với nhau, dùng để kết nối, truyền đi những gói tin từ thiết bị nguồn (source) đến thiết bị đích (destination). Ngoài việc truyền tin, chúng có thể dùng để phân giải (đổi tên miền [example.com](example.com) sang địa chỉ IP), ngăn chặn traffic đáng ngờ (firewall,…) và còn rất nhiều chức năng khác nữa.
+Thiết bị mạng, hay còn gọi là network devices, theo cách hiểu đơn giản nhất thì đó là những thiết bị vật lý được kết nối với nhau, dùng để kết nối, truyền đi những gói tin từ thiết bị nguồn (source) đến thiết bị đích (destination). Ngoài việc truyền tin, chúng có thể dùng để phân giải (đổi tên miền [example.com](https://example.com) sang địa chỉ IP), ngăn chặn traffic đáng ngờ (firewall,…) và còn rất nhiều chức năng khác nữa.
 
 ![Thiết bị mạng](https://cdn.educba.com/academy/wp-content/uploads/2019/08/Networking-Devices.jpg)
 
@@ -114,7 +114,7 @@ Trên đây chỉ là những nội dung cơ bản về những thiết bị m�
 
 Hy vọng mọi người sẽ tiếp tục ủng hộ các bài viết tiếp theo của mình. Các bạn có thể liên hệ mình qua:
 
-- [Gmail](huyqktk@gmail.com) 
+- [Gmail](mailto:huyqktk@gmail.com) 
 - [Linkedin](https://www.linkedin.com/in/huy-nguyen-38910020b/)
 - [Github](https://github.com/huyvnnb)
 
