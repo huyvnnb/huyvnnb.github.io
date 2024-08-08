@@ -1,6 +1,6 @@
 ---
 title: "Các thiết bị mạng phổ biến và công dụng của chúng"
-date: 204-08-08 7:14:00
+date: 2024-08-08 7:14:00
 categories: [CCNA]
 tag: [network, device, hub, switch, router, cable]
 description: "Chúng ta sẽ tìm hiểu về các thiết bị mạng như router, switch, hub, firewall và các loại cáp phổ biến nhất. Chúng có chức năng vô cùng quan trọng trong hệ thống Internet, cùng mình tìm hiểu nhé"
