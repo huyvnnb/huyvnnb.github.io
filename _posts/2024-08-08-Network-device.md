@@ -1,10 +1,6 @@
 ---
 title: "Các thiết bị mạng phổ biến và công dụng của chúng"
-<<<<<<< HEAD
-date: 2024-08-08 13:08:00
-=======
-date: 2024-08-08 07:14:00
->>>>>>> 6d8b4cf71f9983e41e2fc3e8cbe9a93b6885c267
+date: 2024-08-08 11:08:00
 categories: [CCNA]
 ---
 
@@ -38,7 +34,7 @@ Router, hay bộ định tuyến, đóng vai trò quan trọng trong việc kế
 
 Tóm lại, router là một thiết bị mạng không thể thiếu, giúp cho các thiết bị trong mạng có thể giao tiếp với nhau và truy cập Internet một cách hiệu quả
 
-![Router]([https://www.researchgate.net/publication/298834060/figure/fig1/AS:669014497972231@1536516894585/Network-topology-used-for-testing-XP-router-in-home-small-corporate-network-environment.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG4TcYBt6VHf55L6SINh9y64AdbeUe0dVHew&s))
+![Router](https://www.cisco.com/c/dam/assets/prod/product-selector/routers/isr-112x-8p.png)
 
 ### 4.Firewall
 
