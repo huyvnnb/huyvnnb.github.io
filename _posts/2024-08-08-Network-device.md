@@ -1,8 +1,7 @@
 ---
 title: "Các thiết bị mạng phổ biến và công dụng của chúng"
-date: 2024-08-08 7:14:00
+date: 2024-08-08 13:08:00
 categories: [CCNA]
-tag: [network, device, hub, switch, router, cable]
 ---
 
 ## Thiết bị mạng là gì ?
