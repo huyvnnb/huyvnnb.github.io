@@ -1,8 +1,7 @@
 ---
 title: "Các thiết bị mạng phổ biến và công dụng của chúng"
-date: 2024-08-08 7:14:00
+date: 2024-08-08 07:14:00
 categories: [CCNA]
-tag: [network, device, hub, switch, router, cable]
 ---
 
 ## Thiết bị mạng là gì ?
@@ -21,7 +20,7 @@ Hub là một thiết bị mạng cơ bản được sử dụng để kết n�
 
 ### 2. Switch (Bộ chuyển mạch)
 
-![Switch](https://www.netgear.com/media/mobile_switches_tcm148-135772.webp)
+![Switch](https://juniper-prod.scene7.com/is/image/junipernetworks/4100-mg-48p-front-top-switches-banner?fmt=png8-alpha&wid=1280&dpr=off)
 
 Switch là một thiết bị mạng thông minh, đóng vai trò trung tâm trong việc kết nối các thiết bị trong một mạng LAN (Local Area Network). Khác với hub, vì switch cần phải học hỏi nên nó thông mình hơn, bằng công nghệ nào đó giúp nó học địa chỉ MAC (địa chỉ riêng biệt của mỗi thiết bị), qua đó giúp nó biết mình cần truyền dữ liệu chính xác đến đâu dựa vào thông tin có trong gói tin mà nó nhận được.
 
@@ -35,7 +34,7 @@ Router, hay bộ định tuyến, đóng vai trò quan trọng trong việc kế
 
 Tóm lại, router là một thiết bị mạng không thể thiếu, giúp cho các thiết bị trong mạng có thể giao tiếp với nhau và truy cập Internet một cách hiệu quả
 
-![Router](https://www.researchgate.net/publication/298834060/figure/fig1/AS:669014497972231@1536516894585/Network-topology-used-for-testing-XP-router-in-home-small-corporate-network-environment.png)
+![Router]([https://www.researchgate.net/publication/298834060/figure/fig1/AS:669014497972231@1536516894585/Network-topology-used-for-testing-XP-router-in-home-small-corporate-network-environment.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG4TcYBt6VHf55L6SINh9y64AdbeUe0dVHew&s))
 
 ### 4.Firewall
 
