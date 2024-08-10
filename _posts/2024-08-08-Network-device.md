@@ -6,21 +6,21 @@ categories: [CCNA]
 
 ## Thiết bị mạng là gì ?
 
-Thiết bị mạng, hay còn gọi là network devices, theo cách hiểu đơn giản nhất thì đó là những thiết bị vật lý được kết nối với nhau, dùng để kết nối, truyền đi những gói tin từ thiết bị nguồn (source) đến thiết bị đích (destination). Ngoài việc truyền tin, chúng có thể dùng để phân giải (đổi tên miền [example.com](https://example.com) sang địa chỉ IP), ngăn chặn traffic đáng ngờ (firewall,…) và còn rất nhiều chức năng khác nữa.
+Thiết bị mạng, hay còn gọi là network devices, theo cách hiểu đơn giản nhất thì đó là những thiết bị vật lý được kết nối với nhau, dùng để kết nối, truyền đi những gói tin từ thiết bị nguồn (source) đến thiết bị đích (destination). Ngoài việc truyền tin, chúng có thể dùng để phân giải (đổi tên miền *https://example.com* sang địa chỉ IP), ngăn chặn traffic đáng ngờ (firewall,…) và còn rất nhiều chức năng khác nữa.
 
-![Thiết bị mạng](https://cdn.educba.com/academy/wp-content/uploads/2019/08/Networking-Devices.jpg)
+![](https://cdn.educba.com/academy/wp-content/uploads/2019/08/Networking-Devices.jpg)
 
 ## Các thiết bị mạng phổ biến và chức năng của chúng
 
 ### I. Hub
 
-![Hub](https://static.javatpoint.com/computer/images/what-is-star-topology1.png)
+![](https://static.javatpoint.com/computer/images/what-is-star-topology1.png)
 
 Hub là một thiết bị mạng cơ bản được sử dụng để kết nối nhiều thiết bị (như máy tính, máy in,...) lại với nhau trong cùng một mạng **LAN (Local Area Network)**. Bạn có thể hiểu nếu bạn gửi một gói tin đi đến ngã tư, thì Hub sẽ chuyển gói tin đó ra cả 3 hướng còn lại. Tuy nhiên, vì nó “HẤP” cho nên ngày nay người ta thường không sử dụng vì hiệu suất truyền dữ liêu thấp, bảo mật không cao. Bởi bạn muốn nói chuyện với người A, những vì bạn nói quá to nên cả người B, C cũng nghe thấy được. Thay vào đó, họ dùng Switch bởi vì nó thông minh hơn.
 
 ### 2. Switch (Bộ chuyển mạch)
 
-![Switch](https://juniper-prod.scene7.com/is/image/junipernetworks/4100-mg-48p-front-top-switches-banner?fmt=png8-alpha&wid=1280&dpr=off)
+![](https://juniper-prod.scene7.com/is/image/junipernetworks/4100-mg-48p-front-top-switches-banner?fmt=png8-alpha&wid=1280&dpr=off)
 
 Switch là một thiết bị mạng thông minh, đóng vai trò trung tâm trong việc kết nối các thiết bị trong một mạng LAN (Local Area Network). Khác với hub, vì switch cần phải học hỏi nên nó thông mình hơn, bằng công nghệ nào đó giúp nó học địa chỉ MAC (địa chỉ riêng biệt của mỗi thiết bị), qua đó giúp nó biết mình cần truyền dữ liệu chính xác đến đâu dựa vào thông tin có trong gói tin mà nó nhận được.
 
@@ -34,7 +34,7 @@ Router, hay bộ định tuyến, đóng vai trò quan trọng trong việc kế
 
 Tóm lại, router là một thiết bị mạng không thể thiếu, giúp cho các thiết bị trong mạng có thể giao tiếp với nhau và truy cập Internet một cách hiệu quả
 
-![Router](https://www.cisco.com/c/dam/assets/prod/product-selector/routers/isr-112x-8p.png)
+![](https://www.cisco.com/c/dam/assets/prod/product-selector/routers/isr-112x-8p.png)
 
 ### 4.Firewall
 
@@ -42,7 +42,7 @@ Tường lửa (Firewall) là một hệ thống bảo mật mạng có chức n
 
 Ở trường mình, mỗi khi đến kì thi, nhà trường sẽ bật tường lửa, ngăn chạn việc kết nối giữa laptop với internet.
 
-![Firewall](https://www.simplilearn.com/ice9/free_resources_article_thumb/Firewall_1.png)
+![](https://www.simplilearn.com/ice9/free_resources_article_thumb/Firewall_1.png)
 
 ### 5. Cáp mạng
 
@@ -52,7 +52,7 @@ Có ba loại cáp chính:
 
 #### Cáp đồng trục (Coaxial cable)
 
-![Coaxial cable](https://www.telnetww.com/wp-content/uploads/2020/05/coaxial-cable-diagram-1-1024x686.png)
+![](https://www.telnetww.com/wp-content/uploads/2020/05/coaxial-cable-diagram-1-1024x686.png)
 
 - **Cấu tạo**: 
     - **Lõi dẫn điện trung tâm**: Đây là dây dẫn chính truyền tải tín hiệu.
@@ -64,7 +64,7 @@ Có ba loại cáp chính:
 
 #### Cáp xoắn đôi (Twisted pair)
 
-![Twisted pair](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH4DZfIbdOwGaduL8oBJAPnWx2dqhV2SY6qQ&s)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH4DZfIbdOwGaduL8oBJAPnWx2dqhV2SY6qQ&s)
 
 Đây cũng là một trong những phương tiện phổ biến và lâu đời nhất, được sử dụng trong công nghệ Ethernet. 
 - **Cấu tạo**: Gồm 2 - 4 cặp xoắn đôi vào nhau. Khi các dây dẫn song song chạy gần nhau, chúng sẽ tạo ra một từ trường tương tác, gây ra nhiễu. Bằng cách xoắn các dây dẫn, từ trường được tạo ra sẽ triệt tiêu lẫn nhau, giảm thiểu nhiễu.
@@ -83,7 +83,7 @@ Ngoài ra có hai tiêu chuẩn mạng phổ biến được sử trong mạng L
 
 #### Cáp quang (Fiber optic cable)
 
-![Fiber optic cable](https://zmscable.es/wp-content/uploads/2022/12/fibra-optica-cable.jpg)
+![](https://zmscable.es/wp-content/uploads/2022/12/fibra-optica-cable.jpg)
 
 **Cấu tạo**: Cấu thành từ nhiều sợi thủy tỉnh giúp chuyển tín hiệu một khoảng cách rất xa, có ba thành phần chính
 - Lõi
