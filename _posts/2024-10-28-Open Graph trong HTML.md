@@ -1,7 +1,7 @@
 ---
 title: "Open Graph trong HTML"
 date: 2024-10-18 21:30:00
-categories: [Design Pattern]    # TAG names should always be lowercase
+categories: [WEB, HTML]    # TAG names should always be lowercase
 ---
 ### Open Graph có gì hay ?
 
